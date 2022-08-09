@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "next-office-work",
+  "private_key_id": "0fc3c7e17f8408f0a9712c6aa16290d445dce6a5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQDuzRr14haqVTpP\nFuQnPVmUIXXI6zufky/71j7t/2EJD1W/jZYnFAQoQu7N0Sk5dHoCe5teKk+u/8iV\nNH1kqFGxhf5QJzNh+hEdNr8djgE5HXkQxrtEo5RBIP5zcISF8Y79kHQ1pP9XM3AY\nuxZDVaI2e3OTfNa25RdkFdhhuaBXWm2tNNolc5TZy4orwCyBzC/cqGgZslvLRDcn\nAyFKoY+8l21FDM7ORd7cznkhz+syMladAuhCLZYgaggO+7bGSg4gm5DSw8jLwZcC\n+rlrduP2lHTc5SmnW+goPnn252zw3oomOGVW7Z4zNJDlYNSfB0Q7EKN62WGh9bnW\n5h3XgQpHAgMBAAECgf9Ej56t+buIK/ARxQC8Q2D0pqaqiN8VcazVIS3wJuI1N7Hm\nzT/O+HA5Hv5xGRw84rQlAlgZMQyvscBlFizqOWk7Dr11Rcv61VEUkiNM2PiA7XVU\n27noew6VpGNpwWRLEI99PXwf6r9kyd/lOdGqg2uPOOJ19eGvoRaWJa96X1Epwr69\nh8IM6/9nWQJNYq2xkOJu2Oeg8QbJR6Wf/MHsJKQD5w2eXcUgacGD/o2DSacpx6Th\nPVENoGoJDWed9kHRqQ8ct9oLD3nGzpIJKxSkG5Xo6A7FOz2IbOsqmbWFFyBxDc+2\nZzjWl+VdM55Txf/PpQ61L0xBx4v42AqJC665nIECgYEA+niVd5JLdKSU9toV+9em\nHy0ryaynMMbwuSZpLsoiS4zcT5A4r43X8LQ4ykDCeJYl1Wpjyt7F26bClIsNBlU9\ndVHvAswrc0Jo+mC+hBUghOkzgAf50SML6dLH9C2o65TY6GEkFs7s0F+UwYrf/oB/\nzewFbq5G4m5ACDBBMGl1MIECgYEA9BKTM0XnhdJ8ihbST7x0KRHx3TQcCuBt2ORF\nBfkBqKRCtuJjUAnOHysyLfu7BRD2iVlXB3iAOQpQlcFZW98NBZJ/Zs1ueO8cMTVu\nTmHfKQE3RhDdYE2/njtGMcZ1uPnecBRw1Ybnm3i5/kX7WG/gvHt6pHU6XTzMSZTt\nT8CdVscCgYEAw3ehZaw02LWsTy0JJP45dXEiEAR+gbFvoX6ZbVtwAjfOowTxSAfR\nMtbizuxVGBhNNE0Pzf2muXFdvuD5bCzPhqRHe45shkmYdXVUmO2H8FGx0EPpMM5B\n+Nt3Elcj0Z3a3RcaO/aGl2NQSu6fOhV8J+7+mk7FoOXbcMh/x1E1lIECgYBTRtc0\nwmA5l9ToZNsDW8Cilr3YhMQgreys+U3XuNtpCAq/TcUm9QGAPwPTDrYEB4Km4HXC\nVcoiLDPMtPjhUNynjxGrKOLNnoAXBi0Jz3kOC50pae2uwzhjK8RKjXVzVMYhpcfO\nA0aZFHsZmBUnWpzqkpMI8/qi/3CQlqDV+ll01wKBgFcaZ+7G9iyEiYBgC2WBLPSG\nfYEmhgjbE7wXR9Qq4lZO6yAuNz02AHroxhQ6n4g/ZYyhKXGqZDw0ETeyNQQAXag3\n7fRV9eJW5MmWtW18eHbs9YFt3zivNHI4EVKCXWgkjtFLAzdNO9U4sUCloV+YNCeY\n6+FtVwhc/FVbDAaBoAw7\n-----END PRIVATE KEY-----\n",
+  "client_email": "chatapplication@next-office-work.iam.gserviceaccount.com",
+  "client_id": "105977287374165916232",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chatapplication%40next-office-work.iam.gserviceaccount.com"
+}
